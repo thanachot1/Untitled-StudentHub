@@ -1,14 +1,14 @@
 ## Untitled Student-orianted educational platform 
 
-Members:
+# Members:
 
-Moustafa Abdoul
+-Moustafa Abdoul
 
-Gina Dicarlo
+-Gina Dicarlo
 
-Jose Louis
+-Jose Louis
 
-Thanachot Sirifuangwattana
+-Thanachot Sirifuangwattana
 
 
 ### Markdown
