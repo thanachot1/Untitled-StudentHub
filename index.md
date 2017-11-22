@@ -2,13 +2,10 @@
 
 ### Members:
 
--Moustafa Abdoul
-
--Gina Dicarlo
-
--Jose Louis
-
--Thanachot Sirifuangwattana
+- Moustafa Abdoul
+- Gina Dicarlo
+- Jose Louis
+- Thanachot Sirifuangwattana
 
 
 ### Markdown
