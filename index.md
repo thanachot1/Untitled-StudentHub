@@ -7,35 +7,15 @@
 - Jose Louis
 - Thanachot Sirifuangwattana
 
+### Project Description
 
-### Markdown
+We seek to rectify the aforementioned imbalance by giving students more control over course management, providing a more flexible interface and a customizable architecture independent of instructor/school managed LMS. We seek to rectify the aforementioned imbalance by giving students more control over course management, providing a more flexible interface and a customizable architecture independent of instructor/school managed LMS. Our web-based platform will build upon existing technologies and extend the functionality of traditional learning management systems by taking a student-oriented, data-driven approach. Our Minimum Viable Product (MVP) will fulfill the following use cases:
+  - NoteBook Hub
+  - Discussion Board
+  - Calender
+  - Mobile Application
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The current state of learning management systems such as BlackBoard, Piazza and other centralized class administration platforms caters to class administrators and instructors, disregarding students’ preferences and leaving them no control over course organization. Learning is a social endeavor, however, and BlackBoard for example, a student forum is an optional module enabled at the instructor’s discretion. Furthermore, their antiquated interface and overall lack of user friendliness discourages student from engaging in meaningful interactions. Lastly, the availability of these platforms to students in certain classes totally depends on the professor to create, manage, and contribute materials to them; something that - according to our experience - happens less often than it should.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thanachot1/thanachot1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
