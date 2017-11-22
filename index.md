@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Untitled Student-orianted educational platform 
 
-You can use the [editor on GitHub](https://github.com/thanachot1/thanachot1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Members:
+Moustafa Abdoul
+Gina Dicarlo
+Jose Louis
+Thanachot Sirifuangwattana
 
 ### Markdown
 
