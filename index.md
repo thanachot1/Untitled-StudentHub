@@ -1,4 +1,4 @@
-## Untitled Student-orianted educational platform 
+# Untitled Student-orianted educational platform 
 
 ### Members:
 
